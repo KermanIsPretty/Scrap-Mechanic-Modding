@@ -2,8 +2,9 @@
 > This tutorial is written for Visual Studio Code
 
 **Requirements**
- 1. [Visual Studio Code](https://code.visualstudio.com/) 
- 2. [Lua Language Server extension](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) ([github](https://github.com/sumneko/lua-language-server))
+ 1. [Scrap Mechanic](https://store.steampowered.com/app/387990/Scrap_Mechanic/)
+ 2. [Visual Studio Code](https://code.visualstudio.com/) 
+ 3. [Lua Language Server extension](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) ([github](https://github.com/sumneko/lua-language-server))
 
 ## Step 1
 [Download](https://scrapmechanic.com/api/lua.zip) and extract sm.lua

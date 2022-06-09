@@ -35,6 +35,11 @@ Congratulations! You now have the [SM docs](https://scrapmechanic.com/api/index.
 
 # FAQ
 
+## What Lua version does SM run on?
+ [Lua 5.1](https://www.lua.org/manual/5.1/) and uses [LuaJIT 2.1.0-beta3](https://github.com/elikosan/luajit-2.1)
+ 
+ > You can set the lua version in the extensions settings to 5.1
+
 ## Limitations
 1. Content or custom paths will not resolve.
 2. Does not error/warn when using server/client function in the wrong scope.
